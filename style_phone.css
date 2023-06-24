@@ -1,0 +1,10 @@
+#rules{
+    margin: auto;
+    margin: 20px 0px;
+    border: 5px solid black;
+    background-color: rgb(187, 54, 105);
+    color: rgb(221, 185, 188);
+    padding: 28px;
+    font-size: 22px;
+    /* background-color: antiquewhite; */
+}
