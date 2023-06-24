@@ -3,10 +3,10 @@
     margin: 0;
 }
 body{
-    /* background-image: linear-gradient(to right, rgba(218, 106, 127, 0.2), rgba(220, 23, 66, 0.4)); */
-    background-image: url("https://i.pinimg.com/564x/07/e4/8d/07e48d15fc7baf05171c07b05fe26e79.jpg");
+     background-image: linear-gradient(to right, rgba(218, 106, 127, 0.2), rgba(220, 23, 66, 0.4)); 
+    /* background-image: url("https://i.pinimg.com/564x/07/e4/8d/07e48d15fc7baf05171c07b05fe26e79.jpg"); 
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; */
 }
 h1{
     font-size: 40px;
